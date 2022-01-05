@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abhijit Kulkarni
-- 👀 I’m interested in Python, Web development and Devops
+- 👀 I’m interested in Python, Web development Machine Learning and Devops
 - 🌱 I’m currently learning Devops
 
 
